@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: ;
+  padding: 20px;
+}
+
+.main-li {
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.team-card-button {
+  border-color: none;
+  border-width: 0px;
+}

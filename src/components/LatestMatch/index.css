@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.latest-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.lm-img {
+  height: 200px;
+  width: 200px;
+}
+
+.ar {
+  height: 300px;
+}
